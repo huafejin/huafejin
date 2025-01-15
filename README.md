@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @huafejin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 **Hello there! I'm an experienced software developer with 18 years of professional experience.**  
+Currently, I focus on building **telecom cloud platforms based on Kubernetes (K8s)**. I enjoy designing scalable cloud-native solutions that power next-gen telecommunications services.
 
-<!---
-huafejin/huafejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 **Passionate about AI**  
+In addition to cloud platform development, I'm deeply interested in the field of **Artificial Intelligence (AI)**. I'm constantly exploring how AI can be applied to real-world problems and improve productivity.
+
+💡 **Skills & Interests**  
+- Cloud-native development  
+- Kubernetes (K8s) and container orchestration  
+- Distributed systems  
+- AI/ML exploration  
+
+🤝 **Open to collaborations**  
+I'm always happy to discuss innovative ideas, especially around cloud technologies and AI. Feel free to reach out!
+
+---
+✨ _“Technology is not just my career—it's my passion.”_
