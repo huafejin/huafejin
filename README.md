@@ -1,4 +1,4 @@
-👨‍💻 **Hello there! I'm an experienced software developer with 18 years of professional experience.**  
+👨‍💻 **Hello there! I'm an experienced software developer with many years of professional experience.**  
 Currently, I focus on building **telecom cloud platforms based on Kubernetes (K8s)**. I enjoy designing scalable cloud-native solutions that power next-gen telecommunications services.
 
 📚 **Passionate about AI**  
